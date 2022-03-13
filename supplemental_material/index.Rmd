@@ -1,0 +1,23 @@
+---
+title: "The Evolution of Genetic Robustness for Cellular Cooperation in Early Multicellular Organisms"
+author: "Anonymous" 
+date: "`r Sys.Date()`"
+output: bookdown::gitbook
+documentclass: book
+github-repo: AnonymousALifer/Primordium
+description: "Supplemental material for the ALife 2022 conference submission"
+---
+
+# Introduction
+
+This document serves as the supplemental material for the ALife 2022 conference submission "The Evolution of Genetic Robustness for Cellular Cooperation in Early".
+
+## Overview
+
+The document is split into sections that are accessible via the navigation bar on the left side of the screen. 
+Each section corresponds to an experiment (some that were discussed at length in the paper, others that were briefly mentioned).
+As such, each section follows the same formula: setup, plots, and statistics. 
+
+## Interactive web app 
+
+To build intuition on how organisms fill, we created an interactive web app, available here: https://anonymousalifer.github.io/primordium_webapp/
